@@ -984,7 +984,7 @@ section .container {
 .contact .info-box .social-links a {
   font-size: 18px;
   display: inline-block;
-  color: #fff;
+  color: rgba(220,220,220,1);
   line-height: 1;
   margin-right: 12px;
   transition: 0.3s;
